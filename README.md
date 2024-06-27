@@ -2,7 +2,26 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Software Engineering.
 - 💞️ I’m looking to collaborate on differnt projects. 
-- 📫 Reach me on Linkedin-attiqa-zaki-software-developer
+  Hey, I'm Attiqa:
+🎓 Computer science Undergrad At Virtual University
+💬 Ask me about C, C++, And Web Dev
+📫 You can reach me with the links below
+Gmail LinkedIn
+
+Languages I use
+C++ C JavaScript Python
+
+For front-end development
+React HTML5 CSS3 TailwindCSS Bootstrap
+
+For back-end development
+MongoDB Nodejs
+
+Other technologies I am familiar with
+Git GitHub
+
+
+⭐️ From Attiqa Z
 
 <!---
 Attiqa-Z/Attiqa-Z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
