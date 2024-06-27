@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @Attiqa-Z
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Software Engineering.
-- 💞️ I’m looking to collaborate on differnt projects. 
-  Hey, I'm Attiqa:
-🎓 Computer science Undergrad At Virtual University
-💬 Ask me about C, C++, And Web Dev
-📫 You can reach me with the links below
-Gmail LinkedIn
+- 💞️ I’m looking to collaborate on differnt projects.
+- 🎓 Computer science Undergrad At Virtual University
+- 💬 Ask me about C, C++, And Web Dev
+- 📫 You can reach me with the links below
+  [![Gmail](attiqazaki1@gmail.com)] [LinkedIn](https://www.linkedin.com/in/attiqa-zaki-software-developer/)
 
 Languages I use
 C++ C JavaScript Python
