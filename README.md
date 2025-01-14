@@ -47,10 +47,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Attiqa-Z/Attiqa-Z/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Attiqa-Z/count.svg?"  />
 </div>
